@@ -1,3 +1,5 @@
+/* メンバ同士の呼び出しルールの確認練習 */
+
 public class Practice24 {
     int instanceVal;
     static int staticVal;
